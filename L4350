@@ -1,353 +1,257 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/nfswxnD.jpg"group-title="EM/CARTAZ",ANNABELLE 3 DE VOLTA PARA CASA
-https://ohmanystream.verystream.net:443/stream/4ogWtbFan4e/chLtUQrrtbIJnhYr/xwABA9Lp45Kc4g3WVJX2rKYZrNyTacYeamUNX_fpTe07xnd6QQ89s23r9eflAuLmWz_a4jOndSKDXXlSJkI-SQi_--nMHxYccmGr4dYvRfIWmS6vAr6D_E8939-tNX9Tl6Ho4mNB3ze8yN31UdJ66UUWPiEcIvX2Ogb2I0lxWnGoTS1O1bKKz2sYIygr9xOTVnYAtNvlhWS3xrdfTmUp9FvagX4Z06lg3qg07r1_-I8WEiu73mOVEh5EHgHNOAVhiR9XLntkJQxn7Wst-zNvQHTCWHrBc3KKktKy-H7Lslkdfnv1NzNseDddAVbOnXGrSQdwEoMZKKd6jd-UQCMR0nGjsksWgxBJ7n_-cc39sxRLl_cXf_i_QOrU2HGYRCuTQHqGDgFpQFcs45n7fKKItfKOM9JgRDrTpgE2aDDNv9zNZaR2r5x8oX3caOhGR0rTuad6fdiXJ-6l7wTN5WSJsyjxRQLNnOhSJT2q8l4y9kU/521029.3.De.Volta.Para.Casa.2019.HDCAM.720p.DUB.ENC.mp4?mime=true
-
-
-TV ABERTA 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO RIO  
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5622.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="TV/ABERTA",GLOBO SP
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5619.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="",GLOBO INTERNACIONAL
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg"group-title="",GLOBO BRASÍLIA 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
+ 
+#PLAYLISTV: pltv-logo="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-name="JuniorTVOnline" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-author="JuniorTVOnline" pltv-site="" pltv-email="JuniorTVOnline" pltv-phone="JuniorTVOnline.
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5995.ts
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND HD
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5994.ts
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="",RECORD 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5990.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="",RECORD HD
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6184.ts
+#EXTINF:-1 tvg-logo="" tvg-id=" group-title="Filme",Os Vingadores Ultimato
+http://topfilmesapp.hippolytus.feralhosting.com/2019/g-infinita2.mp4
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="",SBT 
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="",SBT HD
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6194.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6196.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV HD
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6195.ts
 
-#EXTINF:0tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="",TV CULTURA 
-http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id=" group-title="TESTE",H2
+https://d3d61bik6e6yw1.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTkgNDoxMDo0MSBQTSZoYXNoX3ZhbHVlPXUxL1d4SFh0ZEltU3Z3RllPQlRabEE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==",
 
-#EXTINF:0tvg-logo="https://i.imgur.com/erib2xQ.png " group-title="",Rede Brasil
+
+ 
+
+
+
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND OFFLINE
+
+#EXTINF:-1 tvg-logo="https://s15.postimg.io/ri5kwmjvr/tvescola2.png" group-title="CANAIS ABERTOS", Tv Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-ZlkBr21Zp4U/VtSmqIMzEGI/AAAAAAAAAJ8/h9lE7BOaiL8/s1600-r/LOGO%2BTV-0.png" group-title="CANAIS ABERTOS",TV Aracati
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV **" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",Record SD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL **" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAIS ABERTOS",REDE BRASIL
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",NOVO TEMPO
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6185.ts
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjI57m1iePeAhVEQpAKHSnvBrAQjRx6BAgBEAU&url=https%3A%2F%2Fpt-br.facebook.com%2Fhittv.es%2F&psig=AOvVaw3kJTAeT79H9B0elcjafzIC&ust=1542806818325557" tvg-id="317" group-title="CANAIS ABERTOS",Hit Tv
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
-#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rede_aparecida_de_comunicacao.jpg/200px-Rede_aparecida_de_comunicacao.jpg" group-title="",APARECIDA 
+
+
+
+
+
+
+
+
+ 
+
+
+
+#EXTINF:-1 tvg-id="Gospel Movies Television" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="FILMES",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" group-title="FILMES",filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" group-title="FILMES",filmes 2
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
-#EXTINF:0tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="",REDE MINAS
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
 
-#EXTINF:0tvg-logo="https://i.imgur.com/9Txygan.jpg " group-title="",AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 
 
 
- ////////////  NOTÍCIAS \\\\\\\\
 
 
-#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS 
-http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_W76zKbN245HU&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=4d70e0fc515fd1621495819a4b89a9b1
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",RECORD NEWS 
-http://192.119.9.66:80/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_QwU1Hel7XVqf&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=8a456b88991be5f7b4074da7ef1bb033
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Missao 
+rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
 
-#EXTINF:0 tvg-logo="" group-title="",BAND NEWS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5991.ts
-                
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 
-///////////// DOCUMENTARIOS \\\\\\\\\\\
 
 
-#EXTINF:0 tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6250.ts
 
-#EXTINF:0 tvg-logo="" group-title="",Discovery Channel
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12152.ts
 
-#EXTINF:0 tvg-logo="" group-title="",DISCOVERY CIVILIZATION
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6247.ts
 
-#EXTINF:0 tvg-logo="" group-title="",DISCOVERY SCIENCE
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6134.ts
 
-#EXTINF:0 tvg-logo="" group-title="",DISCOVERY/THEATER
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6132.ts
 
-#EXTINF:0 tvg-logo="" group-title="",HISTÓRY/CHANNEL
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6256.ts
 
-#EXTINF:0 tvg-logo="" group-title="",HISTORY 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6255.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="TV Musicas",VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",DISCOVERY TURBO
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6130.ts
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",NAT/ GEOGRAPHY
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6252.ts
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
+http://www.djing.com/tv/04.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",NAT GEO/WILD
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6239.ts
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",DISCOVERY H&H
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12153.ts
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",OFF
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12171.ts
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
+http://rtmp.one.by:1200
 
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD
+http://rtmp.one.by:1300
 
-    ////////////// VARIEDDADES\\\\\\\\
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
+http://rtmp.one.by:2300
 
-#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
-http://192.119.9.66:80/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts?user_id=eslqxb&trans_id=a9GNSk7xo7f6_v7IPMmBX0qLb&dead_time=1560821727&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:80&slb=54.213.30.230:80&app_ver=10106&token=a09745b551defb79bb0fc575281be207
 
-#EXTINF:0 tvg-logo="" group-title="",MTV
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6788.ts
 
-#EXTINF:0 tvg-logo="" group-title="",MULTISHOW 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3839.ts
 
-#EXTINF:0 tvg-logo="" group-title="",COMEDY CENTRAL
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6206.ts
 
-#EXTINF:0 tvg-logo="" group-title="",TLC
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6633.ts
 
-#EXTINF:0 tvg-logo="" group-title="",CANAL VIVA
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6187.ts
 
 
-                    ESPORTES Com Bugs
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas
+http://192.99.150.31:8962/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé
+http://192.99.150.31:8305/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz
+http://stm19.shoutcast.melhorhospedagemweb.com:11138/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
 
-#EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5576.ts
 
-#EXTINF:0 tvg-logo="" group-title="",COMBATE
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6217.ts
 
-#EXTINF:0 tvg-logo="" group-title="",ESPN
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5586.ts
 
-#EXTINF:0 tvg-logo="" group-title="",ESPN 2 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5585.ts
 
 
-#EXTINF:0 tvg-logo="" group-title="",ESPN BRASIL
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5588.ts
 
-#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5584.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS 2
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5582.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="",SPORTV
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5594.ts
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="Radios",Mix FM
+http://mixaac.crossradio.com.br:1100/live
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="",SPORTV 2
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5592.ts
+#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="Radios", Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png  " group-title="",SPORTV 3
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5591.ts
+#EXTINF:-1 tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/mobile/logo.png" group-title="Radios", Radio Mania Volta Redonda
+http://radio.servercsi.com.br:8601/;stream/1
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",PREMIERE CLUBE
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6237.ts
+#EXTINF:-1 tvg-logo="http://www.vibe89fm.com/sites/all/themes/vibe/images/logo.png" group-title="Radios",Vibe FM
+http://servidor36.brlogic.com:8180/live
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",PREMIERE CLUBE HD
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6236.ts
+#EXTINF:-1 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/609/8258b880a641ff4627d31d6b54cf25d7.png" group-title="Radios",CIDADE DO ACO
+http://ice1.crossradio.com.br:8184/live.mp3
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 2
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6234.ts
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" group-title="Radios",Radio Maringa
+http://ice1.fabricahost.com.br:8010/live.128
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 3
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6232.ts
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 4
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6230.ts
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 5 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6228.ts
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 6 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6226.ts
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 7
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6224.ts
-
-
-
-                   
-         ///////////// NFANTIL \\\\\\\\\\
-
-
-#EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3920.ts
-
-#EXTINF:0 tvg-logo="" group-title="",CARTOON NETWORK
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6214.ts
-
-#EXTINF:0 tvg-logo="" group-title="",DISNEY JÚNIOR 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6213.ts
-
-#EXTINF:0 tvg-logo="" group-title="",DISCOVERY KIDS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3919.ts
-
-#EXTINF:0 tvg-logo="" group-title="",GLOOB
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6279.ts
-
-#EXTINF:0 tvg-logo="" group-title="",ZOOMOO
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/12150.ts
-
-#EXTINF:0 tvg-logo="" group-title="",BABY TV
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/11365.ts
-
-#EXTINF:0 tvg-logo="" group-title="",NICK JR
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3914.ts
-
-#EXTINF:0 tvg-logo="" group-title="",NICKLONDEM 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3915.ts
-
-
-                     FILMES & SÉRIES Com Bugs
-
-
-#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",SPACE
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5673.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TNT
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5677.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TNT SÉRIES 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6198.ts
-
-#EXTINF:0 tvg-logo="" group-title="",MAX
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6281.ts
-
-#EXTINF:0 tvg-logo="" group-title="",MAX UP
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6287.ts
-
-#EXTINF:0 tvg-logo="" group-title="",MAXPRIME
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6283.ts
-
-#EXTINF:0 tvg-logo="" group-title="",MAXPRIME*é
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6285.ts
-
-#EXTINF:0 tvg-logo="" group-title="",MEGAPIX
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5675.ts
-
-#EXTINF:0 tvg-logo="" group-title="",PARAMOONT
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5667.ts
-
-#EXTINF:0 tvg-logo="" group-title="",CANAL SONY
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5652.ts
-
-#EXTINF:0 tvg-logo="" group-title="",STUDIO UNIVERSAL 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5669.ts
-
-#EXTINF:0 tvg-logo="" group-title="",UNIVERSAL  CHANNEL
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5656.ts
-
-#EXTINF:0 tvg-logo="" group-title="",A&E
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/16030.ts
-
-#EXTINF:0 tvg-logo="" group-title="",AXN
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3847.ts
-
-#EXTINF:0 tvg-logo="" group-title="",CINEMAX
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5671.ts
-
-#EXTINF:0 tvg-logo="" group-title="",CANAL FOX
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6203.ts
-
-#EXTINF:0 tvg-logo="" group-title="",FX
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5651.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",TCM
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5665.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",AMC
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5563.ts
-
-#EXTINF:0 tvg-logo="" group-title="",HBO
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3849.ts
-
-#EXTINF:0 tvg-logo="" group-title="",HBO 2
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3848.ts
-
-#EXTINF:0 tvg-logo="" group-title="",HBO FAMILY
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3853.ts
-
-#EXTINF:0 tvg-logo="" group-title="",HBO PLUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3852.ts
-
-#EXTINF:0 tvg-logo="" group-title="",HBO PLUS*é
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3851.ts
-
-#EXTINF:0 tvg-logo="" group-title="",HBO SIGNATURE 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3850.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TELECINE ACTION 
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3858.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TELECINE FUN
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3857.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TELECINE PIPOCA
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5661.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TELECINE PREMIUM
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3859.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TELECINE TOUCHE
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5658.ts
-
-#EXTINF:0 tvg-logo="" group-title="",TELECINE CULT
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/3854.ts
-
-
-                
-                  CANAIS  ADULTOS
-
-
-
-#EXTINF:0 tvg-logo="" group-title="CANAIS/ADULTOS",PLAYBOY
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6608.ts
-
-#EXTINF:0 tvg-logo="" group-title="",PINK O
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6613.ts
-
-#EXTINF:0 tvg-logo="" group-title="",SEXTREME
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6609.ts
-
-#EXTINF:0 tvg-logo="" group-title="",SEX HOT
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6610.ts
-
-#EXTINF:0 tvg-logo="" group-title="",VENUS
-http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/6611.ts
-
-
-
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfhctHpdWrnU-xJDtqQc-FQiPiBl1qfxgoSTjOBBvBSa7GUjHbCKdBLNC4g" group-title="Radios",BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
